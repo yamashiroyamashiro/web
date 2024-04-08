@@ -1,1 +1,48 @@
-
+.index{
+    color:black ;
+    text-align: center;
+  }
+    .img, p { 
+    text-align: center;
+}
+body {
+    background-image:url("../images/bg_Argyle.jpg")
+    }
+    table{
+      border: red;
+       background-color: blanchedalmond;
+    }
+    
+  .curry{
+        text-align:left;
+    }
+     .choco{
+        text-align:left;
+        display: flex;
+      }
+        .cu{
+          border: red 5px solid;
+          margin: 20px;
+        }
+        .question{
+          text-align:center;
+        }
+        /* ここから入力フォーム */
+        main{
+          margin: 0px auto;
+          text-align: center;
+        }
+        .form{
+         display: inline-block;
+         background-color: white;
+         padding:0 95px 0 95px ;
+         border:solid #9966cc;
+         border-radius: 20px;
+      }
+      span{
+        border: solid 1px #d3d3d3;
+        border-radius: 5px;
+      }
+    
+    
+        
